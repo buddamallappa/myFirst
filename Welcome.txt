@@ -1,0 +1,2 @@
+Hi wecome to the Angular project
+we will learn Angular7
